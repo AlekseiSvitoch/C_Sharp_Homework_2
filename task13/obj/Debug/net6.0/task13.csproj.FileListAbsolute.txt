@@ -1,0 +1,15 @@
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/bin/Debug/net6.0/task13
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/bin/Debug/net6.0/task13.deps.json
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/bin/Debug/net6.0/task13.runtimeconfig.json
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/bin/Debug/net6.0/task13.dll
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/bin/Debug/net6.0/task13.pdb
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/obj/Debug/net6.0/task13.csproj.AssemblyReference.cache
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/obj/Debug/net6.0/task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/obj/Debug/net6.0/task13.AssemblyInfoInputs.cache
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/obj/Debug/net6.0/task13.AssemblyInfo.cs
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/obj/Debug/net6.0/task13.csproj.CoreCompileInputs.cache
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/obj/Debug/net6.0/task13.dll
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/obj/Debug/net6.0/refint/task13.dll
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/obj/Debug/net6.0/task13.pdb
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/obj/Debug/net6.0/task13.genruntimeconfig.cache
+/Users/pndlm/Documents/GeekBrains/3_Znakomstvo_s_yazikami_programmirovaniya/Seminar_2/Homework2/task13/obj/Debug/net6.0/ref/task13.dll
